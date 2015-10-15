@@ -1,0 +1,10 @@
+languages:
+  - javascript
+  - html
+  - css
+tags:
+  - jQuery
+  - selectors
+  - beginner
+type:
+  - lab

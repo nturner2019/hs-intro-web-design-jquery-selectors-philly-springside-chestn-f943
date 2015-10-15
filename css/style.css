@@ -1,0 +1,70 @@
+#wrapper {
+  width:960px;
+  margin:0 auto;
+  padding:0;
+}
+
+#content {
+  margin:0;
+  padding:20px;
+}
+
+a:link, a:visited {
+  color:blue;
+  text-decoration:none;
+}
+
+a:active, a:hover {
+  color:blue;
+  text-decoration:underline;
+}
+
+/* --// selectors exersize //--*/
+
+#box2  {
+  width:100px;
+  height:100px;
+  border:1px solid #ccc;
+  background-color:#efefef;
+  margin:10px;
+  padding:5px;
+}
+
+.box3 {
+  width:100px;
+  height:100px;
+  border:1px solid #ccc;
+  background-color:#efefef;
+  margin:10px;
+  padding:5px;
+}
+
+#box4{
+  width:100px;
+  height:100px;
+  border:1px solid #ccc;
+  background-color:#efefef;
+  margin:10px;
+  padding:5px;
+}
+
+.box5 {
+  color:blue;
+}
+
+form {
+  width:50%;
+  margin:20px 10px;
+  padding:10px;
+  border:1px solid #ccc;
+}
+
+input {
+  padding:5px;
+}
+
+.pinky {
+  padding:5px;
+  background-color:pink;
+  border:1px solid red;
+}
