@@ -17,4 +17,4 @@ Bonus: Use jQuery traversal methods to select one element and then switch select
  * [jQuery API - Traversing](http://api.jquery.com/category/traversing/)
  * [jQuery API - addClass](http://api.jquery.com/addClass/)
  * [jQuery API - wrap](http://api.jquery.com/wrap/)
-<a href='https://learn.co/lessons/hs-intro-web-design-jquery-selectors' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-jquery-selectors' title='Exploring jQuery Selectors'>Exploring jQuery Selectors</a> on Learn.co and start learning to code for free.</p>
